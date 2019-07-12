@@ -21,14 +21,28 @@ Scary stuff! To the point that people came out of the woodworks to ask me if the
 
 But two years have passed since those first missile tests. Were we ever really close to a nuclear war? Should I have reacted any differently? How often does news hype about an event actually correspond with terrible things that happen around the globe?
 
-These questions have prompted me to analyze the intersection of what people worry about, what the news media hypes up, what experts warn us about, and what actually happens.
+These questions have prompted me to analyze the intersection of what people worry about, what the news media hypes up, and what experts warn us about.
 
 ## The Project
 
+#### OPTION 1:
+Pull google search trends and news headlines from a few news outlets and compare to the Preventive Priorities Survey (2008-2019). 
 
-## The Data
+Data sources: Google search trend API, news outlet APIs?? and probably hand-inputting the data from CFR's PPS, unfortunately.
 
+Model: Something predictive? Do trends have the same lifecycles? 
+
+Things to work out: Is this 'modeling' enough?
+
+#### OPTION 2:
+Do international affairs trends on social media mirror expert analysis, or are they skewed away by news headlines? What does sentiment analysis (NLP) reveal when I investigate tweets?
+
+Data sources: Twitter API, focused on specific hashtags? Also CFR's PPS.
+
+Model: Again, something predictive? Time series?
+
+Things to work out: again, is this enough? Am I showing off some kind of model? How in the world would I pick hashtags to find trends?
 
 ## The Inspiration
 
-["Death: Reality vs Reported"](https://owenshen24.github.io/charting-death/) was a project done by Owen Shen, Hasan Al-Jamaly, Maximillian Siemers and Nicole Stone, which resulted in a [visualization](https://www.reddit.com/r/dataisbeautiful/comments/8cwcbu/cause_of_death_reality_vs_google_vs_media_oc/) I first found in the Subreddit dataisbeautiful's top posts of all time aggregator. The way they asked their questions, aggregated their data, and visualized it prompted me to think about the same questions, but for international affairs. Tip of the hat, esteemed data science colleauges, I appreciate the jumping off point and inspiration!
+["Death: Reality vs Reported"](https://owenshen24.github.io/charting-death/) was a project done by Owen Shen, Hasan Al-Jamaly, Maximillian Siemers and Nicole Stone, which resulted in a [visualization](https://www.reddit.com/r/dataisbeautiful/comments/8cwcbu/cause_of_death_reality_vs_google_vs_media_oc/) I first found in the Subreddit dataisbeautiful's top posts of all time aggregator. The way they asked their questions, aggregated their data, and visualized it prompted me to think about the same questions, but for international affairs. Tip of the hat, esteemed data science colleagues, I appreciate the jumping off point and inspiration!

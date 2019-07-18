@@ -1,9 +1,9 @@
 Year,Tier,Issue/Country,Impact,Likelihood,Description
-2019,1,cyberattack,high,moderate,A highly disruptive cyberattack on U.S. critical infrastructure and networks
+2019,1,cyberattack,high,moderate,A highly disruptive cyberattack on US critical infrastructure and networks
 2019,1,North Korea,high,moderate,Renewed tensions on the Korean Peninsula following a collapse of the denuclearization negotiations
 2019,1,Iran,high,moderate,An armed confrontation between Iran and the United States or one of its allies over Iran’s involvement in regional conflicts and support of militant proxy groups
 2019,1,South China Sea,high,moderate,"An armed confrontation over disputed maritime areas in the South China Sea between China and one or more Southeast Asian claimants (Brunei, Malaysia, Philippines, Taiwan, and Vietnam)"
-2019,1,terrorist attack,high,moderate,A mass casualty terrorist attack on the U.S. homeland or a treaty ally by either (a) foreign or homegrown terrorist(s)
+2019,1,terrorist attack,high,moderate,A mass casualty terrorist attack on the US homeland or a treaty ally by either (a) foreign or homegrown terrorist(s)
 2019,1,Syria,moderate,high,Continued violent reimposition of government control in Syria leading to further civilian casualties and heightened tensions among external parties to the conflict
 2019,1,Venezuela,moderate,high,Deepening economic crisis and political instability in Venezuela leading to violent civil unrest and increased refugee outflows
 2019,1,Yemen,moderate,high,"Worsening of the humanitarian crisis in Yemen, exacerbated by ongoing foreign intervention in the civil war"
@@ -17,7 +17,7 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2019,2,Israel-Palestine,moderate,moderate,"Heightened tensions between Israelis and Palestinians leading to attacks against civilians, widespread protests, and armed confrontations"
 2019,2,Nicaragua,moderate,moderate,Political violence and instability in Nicaragua worsening the migration crisis in Central America
 2019,2,Turkey-Kurds,moderate,moderate,Escalation of violence between Turkey and various Kurdish armed groups within Turkey and in neighboring countries
-2019,3,India-Pakistan,moderate,low,A severe India-Pakistan military confrontation triggered by a major terrorist attack or heightened unrest in Indianadministered Kashmir
+2019,3,India-Pakistan,moderate,low,A severe India-Pakistan military confrontation triggered by a major terrorist attack or heightened unrest in Indian-administered Kashmir
 2019,3,India-China,moderate,low,A new military confrontation between China and India over disputed border territories
 2019,3,Libya,low,moderate,Escalating violence between rival governing groups in Libya and a breakdown of the internationally brokered peace process
 2019,3,Nigeria,low,moderate,"Violence and political instability around national and state elections in Nigeria, exacerbated by conflicts in the Delta region and Middle Belt, and with Boko Haram in the northeast"
@@ -31,10 +31,10 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2019,3,Balkans,low,low,"Escalating tensions and/or extremist violence in the Balkans—Albania, Bosnia and Herzegovina, Croatia, Kosovo, Macedonia, Montenegro, and Serbia—resulting in political instability and armed clashes"
 2018,1,North Korea,high,moderate,"Military conflict involving the United States, North Korea, and its neighboring countries"
 2018,1,Russia-NATO,high,moderate,"A deliberate or unintended military confrontation between Russia and NATO members, stemming from assertive Russian behavior in Eastern Europe"
-2018,1,cyberattack,high,moderate,A highly disruptive cyberattack on U.S. critical infrastructure and networks
+2018,1,cyberattack,high,moderate,A highly disruptive cyberattack on US critical infrastructure and networks
 2018,1,Iran,high,moderate,An armed confrontation between Iran and the United States or one of its allies over Iran’s involvement in regional conflicts and support of militant proxy groups
 2018,1,South China Sea,high,moderate,"An armed confrontation over disputed maritime areas in the South China Sea between China and one or more Southeast Asian claimants—Brunei, Malaysia, the Philippines, Taiwan, or Vietnam"
-2018,1,terrorist attack,high,moderate,A mass casualty terrorist attack on the U.S. homeland or a treaty ally by either foreign or homegrown terrorist(s)
+2018,1,terrorist attack,high,moderate,A mass casualty terrorist attack on the US homeland or a treaty ally by either foreign or homegrown terrorist(s)
 2018,1,Syria,moderate,high,"Violent reconsolidation of government control in Syria, with heightened tensions among external parties to the conflict"
 2018,1,Afghanistan,moderate,high,Increased violence and instability in Afghanistan resulting from the Taliban insurgency and potential government collapse
 2018,2,East China Sea,high,low,An armed confrontation in the East China Sea between China and Japan stemming from tensions over the sovereignty of the Senkaku/Diaoyu Islands
@@ -61,8 +61,8 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2018,3,Central African Republic,low,moderate,Escalation of sectarian violence and forced displacement in the Central African Republic between the Seleka rebels and anti-balaka militias resulting in continued forced displacement and destabilizing effects on neighboring countries
 2017,1,North Korea,high,moderate,"A severe crisis in North Korea caused by nuclear or intercontinental ballistic missile (ICBM) weapons testing, a military provocation, or internal political instability"
 2017,1,Russia-NATO,high,moderate,"A deliberate or unintended military confrontation between Russia and NATO members, stemming from assertive Russian behavior in Eastern Europe"
-2017,1,cyberattack,high,moderate,A highly disruptive cyberattack on U.S. critical infrastructure
-2017,1,terrorist attack,high,moderate,A mass casualty terrorist attack on the U.S. homeland or a treaty ally by either a foreign or homegrown terrorist(s)
+2017,1,cyberattack,high,moderate,A highly disruptive cyberattack on US critical infrastructure
+2017,1,terrorist attack,high,moderate,A mass casualty terrorist attack on the US homeland or a treaty ally by either a foreign or homegrown terrorist(s)
 2017,1,Afghanistan,moderate,high,Increased violence and instability in Afghanistan resulting from a continued strengthening of the Taliban insurgency and potential government collapse
 2017,1,Turkey-Kurds,moderate,high,"Intensification of violence between Turkey and various Kurdish armed groups within Turkey and in neighboring countries, including Iran, Iraq, and Syria"
 2017,1,Syria,moderate,high,"Intensification of the civil war in Syria resulting from increased external support for warring parties, including military intervention by outside powers"
@@ -90,8 +90,8 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2017,3,Colombia,low,low,"Political instability in Colombia following the collapse of the peace agreement between the government and the FARC, causing a resumption of the insurgency"
 2017,3,Armenia-Azerbaijan,low,low,An outbreak of military conflict between Armenia and Azerbaijan over the disputed Nagorno-Karabakh region
 2016,1,Syria,high,high,"intensification of the civil war in Syria resulting from increased external support for warring parties, including military intervention by outside powers"
-2016,1,terrorist attack,high,moderate,a mass casualty attack on the U.S. homeland or a treaty ally
-2016,1,cyberattack,high,moderate,a highly disruptive cyberattack on U.S. critical infrastructure
+2016,1,terrorist attack,high,moderate,a mass casualty attack on the US homeland or a treaty ally
+2016,1,cyberattack,high,moderate,a highly disruptive cyberattack on US critical infrastructure
 2016,1,North Korea,high,moderate,"a severe crisis with or in North Korea caused by nuclear or ballistic missile weapons testing, a military provocation, or internal political instability"
 2016,1,European Union,high,moderate,"political instability in EU countries stemming from the influx of refugees and migrants, with heightened civil unrest, isolated terrorist attacks, or violence against refugees and migrants"
 2016,1,Libya,moderate,high,"continued political fracturing of Libya, with heightened violence and further military intervention by Arab states"
@@ -120,8 +120,8 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2016,3,Venezuela,low,moderate,"deepening economic crisis and political instability in Venezuela, leading to heightened civil unrest"
 2016,3,Democratic Republic of the Congo,low,moderate,"growing political instability in the Democratic Republic of Congo ahead of scheduled elections, resulting in widespread violence and destabilizing effects on neighboring countries"
 2015,1,Iraq,high,high,"intensification of the conflict in Iraq due to territorial gains by the Islamic State of Iraq and Syria (ISIS) and operations by Iraqi security forces, as well as ongoing Sunni-Shia sectarian violence"
-2015,1,terrorist attack,high,moderate,a mass casualty attack on the U.S. homeland or a treaty ally
-2015,1,cyberattack,high,moderate,a highly disruptive cyberattack on U.S. critical infrastructure
+2015,1,terrorist attack,high,moderate,a mass casualty attack on the US homeland or a treaty ally
+2015,1,cyberattack,high,moderate,a highly disruptive cyberattack on US critical infrastructure
 2015,1,North Korea,high,moderate,"a severe North Korean crisis caused by a military provocation, internal political instability, or threatening nuclear weapons/ ICBM-related activities"
 2015,1,Iran,high,moderate,renewed threat of Israeli military strikes against Iran as a result of a breakdown in nuclear negotiations and/or clear evidence of intent to develop a nuclear weapons capability
 2015,1,South China Sea,high,moderate,an armed confrontation in the South China Sea between China and one or more Southeast Asian claimants to disputed maritime areas
@@ -150,13 +150,13 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2015,3,India-Pakistan,moderate,low,a severe Indo-Pakistani military confrontation triggered by a major terrorist attack or heightened violence in Kashmir
 2015,3,Armenia-Azerbaijan,low,low,an outbreak of military conflict between Armenia and Azerbaijan over Nagorno-Karabakh
 2014,1,Syria,high,moderate,intensification of the Syrian civil war including possible limited military intervention
-2014,1,cyberattack,high,moderate,a highly disruptive cyberattack on U.S. critical infrastructure
+2014,1,cyberattack,high,moderate,a highly disruptive cyberattack on US critical infrastructure
 2014,1,Iran,high,moderate,renewed threat of military strikes against Iran as a result of a breakdown in nuclear negotiations and/or clear evidence of intent to develop a nuclear weapons capability
-2014,1,terrorist attack,high,moderate,a mass casualty terrorist attack on the U.S. homeland or a treaty ally
+2014,1,terrorist attack,high,moderate,a mass casualty terrorist attack on the US homeland or a treaty ally
 2014,1,North Korea,high,moderate,"a severe North Korean crisis caused by a military provocation, internal political instability, or threatening nuclear weapons/ ICBM-related activities"
 2014,1,Afghanistan,moderate,high,growing violence and instability in Afghanistan resulting from the drawdown of coalition forces and/or contested national elections
 2014,1,Pakistan,moderate,high,increasing internal violence and political instability in Pakistan
-2014,1,Yemen,moderate,high,strengthening of al-Qaeda in the Arabian Peninsula resulting from continued political instability in Yemen and/or backlash from U.S. counterterrorism operations
+2014,1,Yemen,moderate,high,strengthening of al-Qaeda in the Arabian Peninsula resulting from continued political instability in Yemen and/or backlash from US counterterrorism operations
 2014,1,Iraq,moderate,high,civil war in Iraq due to rising Sunni-Shia sectarian violence
 2014,1,Jordan,moderate,high,growing political instability and civil violence in Jordan triggered by spillover from the Syrian civil war
 2014,2,Egypt,moderate,moderate,"further deterioration of the political situation in Egypt resulting in significantly increased violence, especially in the Sinai Peninsula"
@@ -181,11 +181,11 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2014,3,Armenia-Azerbaijan,low,low,an outbreak of military conflict between Armenia and Azerbaijan over Nagorno-Karabakh
 2013,1,Syria,high,high,"intensification of Syria’s civil war, including possible limited external intervention"
 2013,1,Iran,high,moderate,an Iranian nuclear crisis such as a surprise advance in Iran’s nuclear weapons/delivery capability followed by an Israeli response
-2013,1,China,high,moderate,a major military incident with China involving U.S. or allied forces such as a Sino-Japanese clash over the Senkaku/ Diaoyu Islands
-2013,1,terrorist attack,high,moderate,a mass casualty attack on the U.S. homeland or on a treaty ally
+2013,1,China,high,moderate,a major military incident with China involving US or allied forces such as a Sino-Japanese clash over the Senkaku/ Diaoyu Islands
+2013,1,terrorist attack,high,moderate,a mass casualty attack on the US homeland or on a treaty ally
 2013,1,Syria,high,moderate,nonstate actors acquire biological or chemical weapons from stockpiles in Syria
 2013,1,Pakistan,high,moderate,"severe internal instability in Pakistan, triggered by a civil-military crisis or terror attacks"
-2013,1,cyberattack,high,moderate,a highly disruptive cyberattack on U.S. critical infrastructure
+2013,1,cyberattack,high,moderate,a highly disruptive cyberattack on US critical infrastructure
 2013,1,Afghanistan,moderate,high,a major erosion of security in Afghanistan resulting from coalition drawdown
 2013,2,India-Pakistan,moderate,moderate,"a severe Indo-Pakistan crisis that carries risk of military escalation, triggered by a major terror attack"
 2013,2,North Korea,moderate,moderate,"a severe North Korean crisis caused by another military provocation, internal political instability, or threatening nuclear weapons/ICBM-related activities"
@@ -199,7 +199,7 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2013,2,Iraq,moderate,moderate,rising sectarian violence and growing secessionist pressures in Iraq
 2013,2,Jordan,moderate,moderate,widespread popular protests in Jordan triggered by dissatisfaction with the pace of political reform
 2013,2,Egypt,moderate,moderate,unrest in Egypt over pace of reforms and deteriorating economic conditions
-2013,2,Pakistan-U.S.,high,low,"a U.S.-Pakistan military confrontation, triggered by a terror attack or U.S. counterterror operations"
+2013,2,Pakistan-US,high,low,"a US-Pakistan military confrontation, triggered by a terror attack or US counterterror operations"
 2013,2,Democratic Republic of the Congo,low,high,a deepening of violence in the eastern Democratic Republic of the Congo that involves military intervention from its neighbors
 2013,3,Sudan,low,moderate,growing popular unrest and political instability in Sudan
 2013,3,Sudan-South Sudan,low,moderate,military conflict between Sudan and South Sudan
@@ -209,18 +209,18 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2013,3,Turkey-Kurds,moderate,low,renewed unrest in the Kurdish-dominated regions of Turkey and the Middle East
 2013,3,Armenia-Azerbaijan,low,low,"an outbreak of military conflict between Armenia and Azerbaijan, possibly over Nagorno-Karabakh"
 2013,3,Mali,low,low,failure of a multilateral intervention to push out Islamist groups from Mali’s north
-2012,1,terrorist attack,,,a mass casualty attack on the U.S. homeland or on a treaty ally
+2012,1,terrorist attack,,,a mass casualty attack on the US homeland or on a treaty ally
 2012,1,North Korea,,,"a severe North Korean crisis (e.g., armed provocations, internal political instability, advances in nuclear weapons/ICBM capability)"
-2012,1,China,,,a major military incident with China involving U.S. or allied forces
+2012,1,China,,,a major military incident with China involving US or allied forces
 2012,1,Iran,,,"an Iranian nuclear crisis (e.g., surprise advances in nuclear weapons/delivery capability, Israeli response)"
-2012,1,cyberattack,,,"a highly disruptive cyberattack on U.S. critical infrastructure (e.g., telecommunications, electrical power, gas and oil, water supply, banking and finance, transportation, and emergency services)"
+2012,1,cyberattack,,,"a highly disruptive cyberattack on US critical infrastructure (e.g., telecommunications, electrical power, gas and oil, water supply, banking and finance, transportation, and emergency services)"
 2012,1,Mexico,,,a significant increase in drug trafficking violence in Mexico that spills over into the United States
 2012,1,Pakistan,,,"severe internal instability in Pakistan, triggered by a civil-military crisis or terror attacks"
 2012,1,Saudi Arabia,,,political instability in Saudi Arabia that endangers global oil supplies
-2012,1,Pakistan-U.S.,,,"a U.S.-Pakistan military confrontation, triggered by a terror attack or U.S. counterterror operations"
-2012,1,European Union,,,"intensification of the European sovereign debt crisis that leads to the collapse of the euro, triggering a double-dip U.S. recession and further limiting budgetary resources"
+2012,1,Pakistan-US,,,"a US-Pakistan military confrontation, triggered by a terror attack or US counterterror operations"
+2012,1,European Union,,,"intensification of the European sovereign debt crisis that leads to the collapse of the euro, triggering a double-dip US recession and further limiting budgetary resources"
 2012,2,Egypt,,,political instability in Egypt with wider regional implications
-2012,2,India-Pakistan,,,"a severe Indo-Pak crisis that carries risk of military escalation, triggered by major terror attack"
+2012,2,India-Pakistan,,,"a severe Indo-Pakistani crisis that carries risk of military escalation, triggered by major terror attack"
 2012,2,Turkey-Israel,,,rising tension/naval incident in the eastern Mediterranean Sea between Turkey and Israel
 2012,2,Afghanistan,,,a major erosion of security and governance gains in Afghanistan with intensification of insurgency or terror attacks
 2012,2,Syria,,,"an outbreak of widespread civil violence in Syria, with potential outside intervention"
@@ -239,15 +239,15 @@ Year,Tier,Issue/Country,Impact,Likelihood,Description
 2012,3,Democratic Republic of the Congo,,,violent election-related instability in the Democratic Republic of the Congo
 2012,3,Kyrgyzstan,,,political instability/resurgent ethnic violence in Kyrgyzstan
 2012,3,Armenia-Azerbaijan,,,"an outbreak of military conflict between Armenia and Azerbaijan, possibly over Nagorno Karabakh"
-2011,1,terrorist attack,,,Mass casualty terrorist attack on the U.S. homeland
+2011,1,terrorist attack,,,Mass casualty terrorist attack on the US homeland
 2011,1,Afghanistan,,,Major military/political reversal in Afghanistan
 2011,1,Iran,,,Iranian nuclear crisis (surprise advance in nuclear weapons capability/possible Israeli strike)
 2011,1,North Korea,,,"North Korean crisis (surprise advance in nuclear weapons/ICBM capability, continuing deadly provocations, succession-related political instability)"
 2011,1,Mexico,,,Serious escalation of drug-related violence in Mexico (political instability/border spillover effects)
-2011,1,China,,,Deadly U.S.-PRC military incident
+2011,1,China,,,Deadly US-PRC military incident
 2011,1,India-Pakistan,,,"Indo-Pakistani military escalation (triggered by major terrorist attack, or unrest in Kashmir)"
 2011,1,Pakistan,,,"Severe internal instability in Pakistan (triggered by civil-military crisis, or major terror attack)"
-2011,1,cyberattack,,,Highly disruptive cyber attack on U.S. infrastructure or financial institutions
+2011,1,cyberattack,,,Highly disruptive cyber attack on US infrastructure or financial institutions
 2011,2,Sudan,,,Serious secession-related violence in Sudan/resumption of North-South conflict
 2011,2,Lebanon,,,"New Lebanon crisis (Hizbullah coup/civil war, or Israeli strikes on Hizbullah)"
 2011,2,Iraq,,,Political paralysis/major escalation of violence in Iraq
